@@ -1,0 +1,8 @@
+
+---
+
+# 📁 `.gitignore`
+```text
+venv/
+.env
+__pycache__/
